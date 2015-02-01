@@ -864,3 +864,112 @@ Fudan NLP里包含中文分词、关键词抽取、命名实体识别、词性�
 
 介绍:此书在信息检索领域家喻户晓， 除提供该书的免费电子版外，还提供一个[IR资源列表](http://www-nlp.stanford.edu/IR-book/information-retrieval.html) ，收录了信息检索、网络信息检索、搜索引擎实现等方面相关的图书、研究中心、相关课程、子领域、会议、期刊等等，堪称全集，值得收藏
 
+* [《Information Geometry and its Applications to Machine Learning》](http://yosinski.com/mlss12/MLSS-2012-Amari-Information-Geometry/)
+
+介绍:信息几何学及其在机器学习中的应用
+
+
+
+* [《Legal Analytics – Introduction to the Course》](http://computationallegalstudies.com/2015/01/legal-analytics-introduction-course-professors-daniel-martin-katz-michael-j-bommarito/)
+
+介绍:课程《法律分析》介绍幻灯片。用机器学习解决法律相关分析和预测问题，相关的法律应用包括预测编码、早期案例评估、案件整体情况的预测，定价和工作人员预测，司法行为预测等。法律领域大家可能都比较陌生，不妨了解下。
+
+* [《文本上的算法》](https://github.com/yanxionglu/text_pdf)
+
+介绍: 文中提到了最优，模型，最大熵等等理论，此外还有应用篇。推荐系统可以说是一本不错的阅读稿，关于模型还推荐一篇[Generative Model 与 Discriminative Model](http://blog.sina.com.cn/s/blog_6742eecd0100iqcv.html)
+
+* [《NeuralTalk》](https://github.com/karpathy/neuraltalk)
+
+介绍: NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.NeuralTalk是一个Python的从图像生成自然语言描述的工具。它实现了Google (Vinyals等，卷积神经网络CNN + 长短期记忆LSTM) 和斯坦福 (Karpathy and Fei-Fei， CNN + 递归神经网络RNN)的算法。NeuralTalk自带了一个训练好的动物模型，你可以拿狮子大象的照片来试试看
+
+* [《Deep Learning on Hadoop 2.0》](https://www.paypal-engineering.com/2015/01/12/deep-learning-on-hadoop-2-0-2/)
+
+介绍:本文主要介绍了在Hadoop2.0上使用深度学习,文章来自paypal
+
+* [《Practical recommendations for gradient-based training of deep architectures》](http://arxiv.org/abs/1206.5533)
+
+介绍:用基于梯度下降的方法训练深度框架的实践推荐指导,作者是[Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/research.html) .感谢@xuewei4d 推荐
+
+* [《Machine Learning With Statistical And Causal Methods》](http://machinelearningmastery.com/machine-learning-statistical-causal-methods/)
+
+介绍: 用统计和因果方法做机器学习（视频报告）
+
+* [《Machine Learning Course 180’》](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+
+介绍: 一个讲机器学习的Youtube视频教程。160集。系统程度跟书可比拟。
+
+* [《回归(regression)、梯度下降(gradient descent)》](http://www.cnblogs.com/LeftNotEasy/archive/2010/12/05/mathmatic_in_machine_learning_1_regression_and_gradient_descent.html)
+
+介绍: 机器学习中的数学，作者的研究方向是机器学习，并行计算如果你还想了解一点其他的可以看看他[博客](http://www.cnblogs.com/LeftNotEasy/archive/2011/05/02/recommended-blogspots.html)的其他文章
+
+* [《美团推荐算法实践》](http://tech.meituan.com/mt-recommend-practice.html)
+
+介绍: 美团推荐算法实践，从框架，应用，策略，查询等分析
+
+* [《Deep Learning for Answer Sentence Selection》](http://arxiv.org/abs/1412.1632)
+
+介绍: 深度学习用于问答系统答案句的选取 
+
+* [《Learning Semantic Representations Using Convolutional Neural Networks for Web Search 》](http://www.iro.umontreal.ca/~lisa/pointeurs/WWW2014.pdf)
+
+介绍: CNN用于WEB搜索，深度学习在文本计算中的应用
+
+* [《Awesome Public Datasets》](https://github.com/caesar0301/awesome-public-datasets)
+
+介绍: Awesome系列中的公开数据集
+
+* [《Search Engine & Community》](http://www.academics.io/)
+
+介绍: 一个学术搜索引擎
+
+* [《spaCy》](http://honnibal.github.io/spaCy/)
+
+介绍: 用Python和Cython写的工业级自然语言处理库，号称是速度最快的NLP库，快的原因一是用Cython写的，二是用了个很巧妙的hash技术，加速系统的瓶颈，NLP中稀松特征的存取
+
+* [《Collaborative Filtering with Spark》](http://fr.slideshare.net/MrChrisJohnson/collaborative-filtering-with-spark)
+
+介绍: [Fields](http://www.fields.utoronto.ca/video-archive/event/323/2014)是个数学研究中心,上面的这份ppt是来自Fields举办的活动中Russ Salakhutdinov带来的《大规模机器学习》分享
+
+* [《Topic modeling 的经典论文》](http://www.7300days.com/index.php/stds/topic/list/id/27/name/Topic%20modeling)
+
+介绍: Topic modeling 的经典论文,标注了关键点
+
+* [《Move Evaluation in Go Using Deep Convolutional Neural Networks》](http://arxiv.org/abs/1412.6564)
+
+介绍: 多伦多大学与Google合作的新论文，深度学习也可以用来下围棋，据说能达到六段水平
+
+* [《机器学习周刊第二期》](http://ztl2004.github.io/MachineLearningWeekly/issue2.html)
+
+介绍: 新闻，paper,课程，book，system,CES,Roboot，此外还推荐一个[深度学习入门与综述资料](http://blog.newitfarmer.com/ai/deep-learning/15302/repost-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E4%B8%8E%E7%BB%BC%E8%BF%B0%E8%B5%84%E6%96%99)
+
+* [《Learning more like a human: 18 free eBooks on Machine Learning》](http://www.bigdata-madesimple.com/learning-more-like-a-human-18-free-ebooks-on-machine-learning/)
+
+介绍: 18 free eBooks on Machine Learning
+
+* [《Recommend :Hang Li Home》](http://www.hangli-hl.com/)
+
+介绍:Chief scientist of Noah's Ark Lab of Huawei Technologies.He worked at the Research Laboratories of NEC Corporation during 1990 and 2001 and Microsoft Research Asia during 2001 and 2012.[Paper](http://www.hangli-hl.com/recent-publications.html)
+
+* [《DEEPLEARNING.UNIVERSITY – AN ANNOTATED DEEP LEARNING BIBLIOGRAPHY》](http://memkite.com/deep-learning-bibliography/)
+
+介绍: DEEPLEARNING.UNIVERSITY的论文库已经收录了963篇经过分类的深度学习论文了，很多经典论文都已经收录
+
+* [《MLMU.cz - Radim Řehůřek - Word2vec & friends (7.1.2015)》](https://www.youtube.com/watch?v=wTp3P2UnTfQ&hd=1)
+
+介绍: Radim Řehůřek(Gensim开发者)在一次机器学习聚会上的报告，关于word2vec及其优化、应用和扩展，很实用.[国内网盘](http://pan.baidu.com/s/1c03wd24)
+
+* [《Introducing streaming k-means in Spark 1.2》](http://databricks.com/blog/2015/01/28/introducing-streaming-k-means-in-spark-1-2.html)
+
+介绍:很多公司都用机器学习来解决问题，提高用户体验。那么怎么可以让机器学习更实时和有效呢？Spark MLlib 1.2里面的Streaming K-means，由斑马鱼脑神经研究的Jeremy Freeman脑神经科学家编写，最初是为了实时处理他们每半小时1TB的研究数据，现在发布给大家用了。
+
+* [《LDA入门与Java实现》](http://www.hankcs.com/nlp/lda-java-introduction-and-implementation.html)
+
+介绍: 这是一篇面向工程师的LDA入门笔记，并且提供一份开箱即用Java实现。本文只记录基本概念与原理，并不涉及公式推导。文中的LDA实现核心部分采用了arbylon的LdaGibbsSampler并力所能及地注解了，在搜狗分类语料库上测试良好，开源在[GitHub](https://github.com/hankcs/LDA4j)上。
+
+* [《AMiner - Open Science Platform》](http://aminer.org/)
+
+介绍: AMiner是一个学术搜索引擎，从学术网络中挖掘深度知识、面向科技大数据的挖掘。收集近4000万作者信息、8000万论文信息、1亿多引用关系、链接近8百万知识点；支持专家搜索、机构排名、科研成果评价、会议排名。
+
+* [《What are some interesting Word2Vec results?》](https://www.quora.com/What-are-some-interesting-Word2Vec-results)
+
+介绍: Quora上的主题，讨论Word2Vec的有趣应用，Omer Levy提到了他在CoNLL2014最佳论文里的分析结果和新方法，Daniel Hammack给出了找特异词的小应用并提供了[(Python)代码](https://github.com/dhammack/Word2VecExample)
